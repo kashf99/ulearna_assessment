@@ -6,7 +6,7 @@ A Flutter application that fetches and displays video data from an API. This app
 How to Run:
 
  Requirements: Flutter, Xcode, VS Code or Android studio 
- Clone the git repository from ........ and open in VS code. Connect an android or iPhone device to experience best rendering effects of video. Android emulators do not provide good visuals for videos. 
+ Clone the git repository from (https://github.com/kashf99/ulearna_assessment) and open in VS code. Connect an android or iPhone device to experience best rendering effects of video. Android emulators do not provide good visuals for videos. 
 
 
 How to use APK: 
