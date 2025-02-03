@@ -14,6 +14,9 @@ How to use APK:
  Go to this link (https://drive.google.com/file/d/1TcPa-Qrf6wcXQAtutT9nQrlKDcU9AVKT/view?usp=sharing) 
  click and install apk on android and open the app. 
 
+Video Demo:
+  https://drive.google.com/file/d/1PoJoLvIt_ybeh7hzxUVBo635FFnDvPfc/view?usp=sharing
+
 Features
 
 1- Video Display (Reels Page):
